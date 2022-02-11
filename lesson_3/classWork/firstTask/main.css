@@ -1,0 +1,28 @@
+* {
+    max-width: 1000px;
+}
+
+.box {
+    background-color: aliceblue;
+    display: flex;
+}
+
+img {
+    height: 300px;
+}
+
+h2 {
+    text-align: center;
+    color: dodgerblue;
+}
+
+.product-card {
+    display: flex;
+    height: 300px;
+    justify-content: center;
+}
+
+.product-title {
+    margin: auto 30px;
+    color: midnightblue;
+}
